@@ -11,7 +11,7 @@ body {
 
 header {
     background: #10004e;
-    color:#fff;
+    color:rgb(255, 255, 255);
     padding: 10px 20px;
     text-align: center;
 }
@@ -63,7 +63,7 @@ main {
 }
 
 .produto {
-    background: #f4f4f4;
+    background: #ffffff;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 10px;
@@ -79,7 +79,7 @@ main {
 
 footer {
     background:#10004e;
-    color: #fff;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px 0;
     position: relative;
